@@ -1,2 +1,2 @@
-# HNG-practice-1
-HNG Practice 1
+# HNG-Test
+PHP, MySQL test repo as instructed by Mark Essien (CEO of Hotels.ng)
